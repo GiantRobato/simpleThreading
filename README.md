@@ -37,6 +37,7 @@ Hello World! Thread ID, 4
 >}
 >```
 >
+>**pthread_create()**
 >```C++
 >#include <pthread.h>
 >pthread_create (thread, attr, start_routine, arg)
