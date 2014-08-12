@@ -2,7 +2,7 @@ CXX = g++
 CXXFLAGS = -Wall
 CXXLIBS = -lpthread
 
-simple_threads_objs = simple_thread.o
+simple_threads_objs = simple_threading.o
 
 all: simple_threads
 
