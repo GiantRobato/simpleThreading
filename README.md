@@ -27,7 +27,7 @@ Hello World! Thread ID, 4
 
 ##FILES
 - simple_threading.cpp
->
+
 >The first function defined (**PrintHello()**) is the routine that we create with our threads.
 >```C++
 > void* PrintHello(void *threadid){
@@ -43,5 +43,5 @@ Hello World! Thread ID, 4
 >```
 >
 >arg is used to pass in information to the thread and must be cast to type void. In the next example(threading_with_data) we see how we can pass in information to the thread.
->
+
 
